@@ -30,8 +30,6 @@ const codeStyles = {
 
 
 
-
-
 // markup
 const IndexPage = () => {
   return (
