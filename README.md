@@ -70,11 +70,10 @@ GatsbyJS seems to be less Reactive compared to React. Slow updating when making 
 
 Pros
 * Styling is quick
-* Item 2
+* Good documentation
 
 Cons
 * Page update is slow
-* Mapping through the DOM 
 
 Ratings and Reviews
 Documentation
