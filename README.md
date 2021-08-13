@@ -53,5 +53,52 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
 
-# UML
 
+
+# JS Framework Comparative Analysis
+
+## Framework Name (Gatsby JS)
+
+### Research Conducted By: Sunny Lee, Louis Lassegue, Alexander Williams
+
+### Overall Score and Comments
+
+Score (Out of 10): 5
+General Comments
+
+GatsbyJS seems to be less Reactive compared to React. Slow updating when making changes. Bringing in differnet libraries is not intuitive.
+
+Pros
+* Styling is quick
+* Item 2
+
+Cons
+* Page update is slow
+* Mapping through the DOM 
+
+Ratings and Reviews
+Documentation
+Thoughts go here
+
+Systems Requirements
+Above and beyond ‘node’ and ‘linux’, what dependencies or core requirements exist for this framework? Can it play at AWS/Heroku? Does it require a certain database?
+
+* Needs GatsbyJS installed
+
+
+Community Support and Adoption levels
+This framework is very popular for blogs and basic websites. Millions of users.
+
+Links and Resources
+
+GatsbyJS
+
+https://www.gatsbyjs.com/docs/reference/
+
+https://github.com/sunny-lee3/Lab43
+
+If someone were to download your repo (above), what steps do they need to take to run the application
+
+1. Clone to local machine
+2. run command `npm install`
+3. run command `npm start`
